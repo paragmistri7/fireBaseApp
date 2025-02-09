@@ -12,7 +12,9 @@ export const Dashboard = () => {
       // }
       // , [])
       // if (!load) {
-      //   return (<div>loading.....</div>)
+  //   return (<div>loading.....</div>)
+  
+  console.log("<<<dasgkkdfllg kjkdjgkmdfkgj")
       // }
   return (
     <div>Dashboard  page </div>
